@@ -1,0 +1,8 @@
+Required libraries:
+
+customtkinter
+PyPDF2
+transformers
+google-generativeai
+python-dotenv
+tkinter (usually comes with Python)
