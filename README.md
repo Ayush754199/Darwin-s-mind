@@ -18,20 +18,6 @@ Install the required packages with:
 bash
 Copy
 Edit
-pip install -r requirements.txt
-Required libraries:
-
-customtkinter
-
-PyPDF2
-
-transformers
-
-google-generativeai
-
-python-dotenv
-
-tkinter (usually comes with Python)
 
 🔐 Environment Variables
 Create a .env file in the root directory with your API keys:
